@@ -1,3 +1,5 @@
 Hello Odin ! ! ! 
 
 lets  try another commit!
+
+and lets try a last commit using the vs code to write the commit message instead of vim
